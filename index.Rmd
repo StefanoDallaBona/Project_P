@@ -3,8 +3,9 @@ title: "Ph.D. project Deployment and Workflow"
 output: html_document
 ---
 
-##Stefano Dalla Bona
+This webpage has been created in order to present my Ph.D. project. The idea is to give some elements for a deeper understanding of the work that I've done in order to create my Ph.D. course admission project
 
-jhrwehferhf
+# Title
 
-frjnewrjew
+"Heuristic perspective on learning and assessment of statistical reasoning:
+an error-oriented point of view for educational purposes"
