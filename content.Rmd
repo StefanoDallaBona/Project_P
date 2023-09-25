@@ -4,9 +4,31 @@ output:
   html_document: 
     df_print: paged
 ---
+## 1. Design Analyses
 
 This section is dedicated to the Design Analyses for the set of experiments linked to the Ph.D. project.
 
 * [File 1](content/file1.html)  
 * [File 2](content/file2.html)  
 * [File 3](content/file3.html)
+
+## 2. My previous works
+
+In this section I present my previous work on topics closely linked to my main project. 
+
+### 2.1 Causality Bias
+This study has been inspired by the analysis of the literature on the illusion of causality. We were interested in recent developments in this field of research, specifically on the exploration of the illusion of causality through a standard, widely used associative learning paradigm. This study can be seen as an extension of a previous study by Díaz-Lago, M., & Matute, H. (2019) – “A hard to read font reduces the causality bias”, in which a reduction in the magnitude of the illusion of causality emerged when the participants were presented the experimental procedure with a hard-to-read font. The results of that study appear to suggest that the illusion of causality can be modulated by a rather superficial features of the task like the reading difficulty. In particular, the literature on the process fluency effects seems to suggest that the metacognitive experience of a task difficulty causes the engagement of a more systematic and deliberative kind of reasoning (system two), leading to a reduction on the intuitive and effortless thinking (system one) that underlies the cognitive biases, such as the illusion of causality.
+
+In this study we aimed to test the generalizability of this finding by testing if a physical - perceptual manipulation of the text of the stimuli can modulate the magnitude of the illusion of causality in a standard Contingency Learning Task (CLT). More precisely, we manipulate the contrast of the written stimuli with the background, using different colors (i.e., blue text on a white background vs. yellow test on a white background) to manipulate the processing fluency of the text.
+
+
+The pre-registered hypothesis, data analyses and the experiment script from our work can be found on an Open Science Framework page: <https://osf.io/c26qa/>.
+
+* [Presentation of Causality Bias (ENG)](content/clt_lesson.pdf) 
+* [Presentation of Causality Bias (ITA)](content/MT107_DallaBona.pdf) 
+
+### 2.2 Motivation in math learning
+
+
+
+

@@ -1,0 +1,20 @@
+---
+title: "Causality Bias presentation"
+output:   
+  html_document: 
+    df_print: paged
+    code_download: tru
+  header-includes:
+    - \usepackage{pdfpages}
+---
+
+This is my first file.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(message = FALSE)
+knitr::opts_chunk$set(dev = 'pdf')
+```
+
+
+\includepdf[pages=-](content/clt_lesson.pdf)
