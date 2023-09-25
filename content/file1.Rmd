@@ -1,5 +1,5 @@
 ---
-title: "File 1"
+title: "Design Analysis 1"
 output:   
   html_document: 
     df_print: paged
