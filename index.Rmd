@@ -3,27 +3,25 @@ title: "Ph.D. project Deployment and Workflow"
 output: html_document
 ---
 
-This webpage has been created in order to present my Ph.D. project. The idea is to give some elements for a deeper understanding of the work that I've done in order to create my Ph.D. course admission project
+This webpage has been created in order to present my Ph.D. project. The idea is to give some elements for a deeper understanding of the work that I've done in order to create my Ph.D. course admission project.
+
+
+The "Resources" page (<https://main--projectdallabona.netlify.app/content>) contains the Design Analyses for the experiments
 
 ## Title
 
 "Heuristic perspective on learning and assessment of statistical reasoning:
 an error-oriented point of view for educational purposes"
 
-## Introduction: Two souls x Two souls
+## Introduction
 
-Scientific communication have an important role…
 
 The CoVid-19 pandemic has shown the importance of scientific communication: scientific evidence has been used to drive normative regulamentation and individual behaviours during a world-wide crisis.   
 
 During this life-changing period, on numerous occasions people were not able to properly communicate risks associated with health, nor to correctly interpret statistics about the CoronaVirus. 
 
 
-This project has been elaborate in order to …
-
-
-
- … individuate cognitive flaws underlying our misinterpretation of statistical knowledge, in a learning perspective. The understanding of how our cognition generally fails to interprets numerical logic can enhance  our ability to teach students and people a less-flawed way to learn statistics, an approach that has been shown particularly effective in psychology.
+This project has been elaborate in order to individuate cognitive flaws underlying our misinterpretation of statistical knowledge, in a learning perspective. The understanding of how our cognition generally fails to interprets numerical logic can enhance  our ability to teach students and people a less-flawed way to learn statistics, an approach that has been shown particularly effective in psychology.
 
 
 ```{r cars, message=FALSE, warning=FALSE, echo=FALSE}

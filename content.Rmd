@@ -12,9 +12,9 @@ This section is dedicated to the Design Analyses for the set of experiments link
 * [File 2](content/file2.html)  
 * [File 3](content/file3.html)
 
-## 2. My previous works
+## 2. Previous works
 
-In this section I present my previous work on topics closely linked to my main project. 
+In this section I present previous work on topics closely linked to my main project. 
 
 ### 2.1 Causality Bias
 This study has been inspired by the analysis of the literature on the illusion of causality. We were interested in recent developments in this field of research, specifically on the exploration of the illusion of causality through a standard, widely used associative learning paradigm. This study can be seen as an extension of a previous study by Díaz-Lago, M., & Matute, H. (2019) – “A hard to read font reduces the causality bias”, in which a reduction in the magnitude of the illusion of causality emerged when the participants were presented the experimental procedure with a hard-to-read font. The results of that study appear to suggest that the illusion of causality can be modulated by a rather superficial features of the task like the reading difficulty. In particular, the literature on the process fluency effects seems to suggest that the metacognitive experience of a task difficulty causes the engagement of a more systematic and deliberative kind of reasoning (system two), leading to a reduction on the intuitive and effortless thinking (system one) that underlies the cognitive biases, such as the illusion of causality.
